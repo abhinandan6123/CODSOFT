@@ -1,0 +1,8 @@
+package task3;
+
+public class UserBank {
+   public double balance;
+ public void Balance(double initialBalance){
+     balance = initialBalance;
+ } 
+}
